@@ -54,7 +54,7 @@ nav a {
 .header {
     background-color: rgb(32,101,136);
     color: white;
-    background-image: url(/Users/allisonkopp/Documents/lab-html-module-exercise-master/starter-code/images/city-scape.svg);
+    background-image: url(./images/city-scape.svg);
     background-size: 100%;
     background-position: center;
     display: block;
@@ -194,7 +194,7 @@ nav a {
 
 #install-npm {
     color: white;
-    background-image: url("/Users/allisonkopp/Documents/lab-html-module-exercise-master/starter-code/images/forklift.svg");
+    background-image: url("./images/forklift.svg");
     background-size: cover;
     background-position: relative;
 }
